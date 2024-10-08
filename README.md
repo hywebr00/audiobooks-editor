@@ -15,6 +15,9 @@ This project provides pre-built Windows and macOS binary files.
 
 下載安裝檔（Download Installer）：https://github.com/hywebr00/audiobooks-editor/releases
 
+## 使用手冊（How To Use）
+
+本軟體使用方式請參考以下使用手冊（How To Use）：https://github.com/hywebr00/audiobooks-editor/blob/main/%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A/HyAudio%20Studio%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A.md
 
 ## W3C有聲書標準（W3C Audiobooks Spec）
 - English (Official): https://www.w3.org/TR/audiobooks/
