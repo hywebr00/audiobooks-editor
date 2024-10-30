@@ -24,3 +24,10 @@ This project provides pre-built Windows and macOS binary files.
 - English (Official): https://www.w3.org/TR/audiobooks/
 - 標準中文版（數位出版聯盟翻譯）：https://github.com/dpublishing/audiobooks-specs-tc
 - 有聲書範本（數位出版聯盟製作）：https://github.com/dpublishing/audiobooks-samples
+
+## 維護成員
+
+- 工程師：[jiun-jeng](https://github.com/jiun-jeng)
+- 設計師：[irischung](https://github.com/irischung)
+- PM：[Linyuyu](https://github.com/Linyuyu)
+
